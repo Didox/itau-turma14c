@@ -64,7 +64,7 @@
             Olá sou Danilo, um profissional de tecnologia que tem a missão de transformar vidas
             de pessoas interessadas a aprender tecnologia ou usar tenologia como veículo de transformação
           </p>
-          <p class="lead mb-0"><a href="https://api.whatsapp.com/send?phone=5511999999999&text=Ol%C3%A1%20Danilo,%20quero%20fazer%20um%20sistema%20com%20voc%C3%AA" class="text-white font-weight-bold">Para entrar em contato comigo clique aqui</a></p>
+          <p class="lead mb-0"><a target="_blank" href="https://api.whatsapp.com/send?phone=5511999999999&text=Ol%C3%A1%20Danilo,%20quero%20fazer%20um%20sistema%20com%20voc%C3%AA" class="text-white font-weight-bold">Para entrar em contato comigo clique aqui</a></p>
         </div>
       </div>
 
