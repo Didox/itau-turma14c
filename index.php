@@ -79,6 +79,7 @@
               <div class="mb-1 text-muted">R$ 45,00</div>
               <p class="card-text mb-auto">Camiseta do torne-se um programador</p>
               <a href="https://pag.ae/7WRb3vSuu" target="_blank">Comprar</a>
+              <a href="https://api.whatsapp.com/send?phone=551199999999999&text=Oi%20deu%20problema%20na%20minha%20compra" target="_blank">Entre em contato em caso de problemas</a>
             </div>
             <img class="card-img-right flex-auto d-none d-md-block" src="/camisa-brasil-treino.jpg" alt="Card image cap">
           </div>
