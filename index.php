@@ -90,7 +90,7 @@
                   color: green;
               ">Entre em contato em caso de problemas</a>
             </div>
-            <img class="card-img-right flex-auto d-none d-md-block" src="/camisa-brasil-treino.jpg" alt="Card image cap">
+            <img class="card-img-right flex-auto d-none d-md-block" src="/camisa-brasil-treino.jpg" alt="Card image cap" style="width: 410px;">
           </div>
         </div>
         <div class="col-md-6">
@@ -114,7 +114,7 @@
                   color: green;
               ">Entre em contato em caso de problemas</a>
             </div>
-            <img class="card-img-right flex-auto d-none d-md-block" src="/caneca-itau-personalizada-presentes-personalizados.jpg" alt="Card image cap">
+            <img class="card-img-right flex-auto d-none d-md-block" src="/caneca-itau-personalizada-presentes-personalizados.jpg" alt="Card image cap" style="width: 290px;">
           </div>
         </div>
       </div>
