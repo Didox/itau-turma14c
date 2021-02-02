@@ -80,7 +80,7 @@
               <p class="card-text mb-auto">Camiseta do torne-se um programador</p>
               <a href="https://pag.ae/7WRb3vSuu" target="_blank">Comprar</a>
             </div>
-            <img class="card-img-right flex-auto d-none d-md-block" data-src="/camisa-brasil-treino.jpg" alt="Card image cap">
+            <img class="card-img-right flex-auto d-none d-md-block" src="/camisa-brasil-treino.jpg" alt="Card image cap">
           </div>
         </div>
         <div class="col-md-6">
